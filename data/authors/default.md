@@ -20,7 +20,7 @@ github: https://github.com/ThuWangzw
 
 - 设计并完成了旷视天元 MegEngine 官网的架构重整，解决了架构复杂、开发困难的问题
 - 设计并开发了 MegEngine 文档部署系统，解决了文档编写者部署繁琐的痛点
-- 参与优化了 MegEngine CI，实现了基于 Kafka 和 ELK 的日志收集功能，完善了对 CI 的监控和信息整理
+- 参与开发了 MegEngine CI，实现了基于 Kafka 和 ELK 的日志收集功能，完善了对 CI 的监控和信息整理
 
 <h3>项目经历</h3>
 2019.09 - 2021.04 <b>基于图的交互式半监督学习系统</b>
