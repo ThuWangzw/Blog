@@ -35,7 +35,7 @@ jobs:
         DEPLOY_KEY: ${{ secrets.SSH_KEY }}
         ARGS: -avz --delete
         SERVER_PORT: "22"
-        FOLDER: ./
+        FOLDER: ./out
         SERVER_IP: ${{ secrets.HOST }}
         USERNAME: ${{ secrets.USERNAME }}
         SERVER_DESTINATION: /home/zhaowei/blog/
