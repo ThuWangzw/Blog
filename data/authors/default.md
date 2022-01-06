@@ -33,7 +33,7 @@ github: https://github.com/ThuWangzw
 
 - 设计并实现了深度学习模型与特征可视分析板块，解决了深度学习模型难以调试的问题
 - 设计并实现了百万规模深度学习数据集的可视分析板块，解决了深度学习数据质量差的问题
-- 在计图开发者大会(JDC 2021)上荣获[最佳生态工具奖](https://mp.weixin.qq.com/s/HRsGvebj4tICfo82wERWmQ)
+- 在计图开发者大会(JDC 2021)上的 90 个项目中荣获唯一的[最佳生态工具奖](https://mp.weixin.qq.com/s/HRsGvebj4tICfo82wERWmQ)
 
 <h3>个人能力</h3>
 语言熟悉程度: Golang > Python = JavaScript > C++ > Java > Haskell
