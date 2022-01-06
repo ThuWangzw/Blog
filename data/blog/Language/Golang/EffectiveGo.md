@@ -1,6 +1,6 @@
 ---
 title: Effective Go阅读笔记
-date: '2021-01-05'
+date: '2022-01-05'
 tags: ['Golang', '笔记']
 draft: false
 summary: Effective Go阅读笔记
