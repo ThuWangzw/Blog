@@ -1,7 +1,7 @@
 const siteMetadata = {
-  title: "Zhaowei Wang's Blog",
+  title: '王兆伟',
   author: 'Zhaowei Wang',
-  headerTitle: "Zhaowei Wang's Blog",
+  headerTitle: '王兆伟的博客',
   description: '',
   language: 'zh-ch',
   theme: 'system', // system, dark or light
